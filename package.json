@@ -1,0 +1,23 @@
+{
+  "name": "react-native-simple-custom-button",
+  "version": "1.0.0",
+  "description": "This is simple custom button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashmodi071/react-native-simple-custom-button.git"
+  },
+  "author": "Yash Modi",
+  "license": "ISC",
+  "peerDependencies": {
+     "react": "18.3.1",
+    "react-native": "0.76.9"
+  },
+  "bugs": {
+    "url": "https://github.com/Yashmodi071/react-native-simple-custom-button/issues"
+  },
+  "homepage": "https://github.com/Yashmodi071/react-native-simple-custom-button#readme"
+}
