@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-custom-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is simple custom button",
   "main": "index.js",
   "scripts": {
